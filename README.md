@@ -21,13 +21,13 @@ Want to Make extra cash fast whether you're stuck on the train or bored at work 
 
 ★ spin wheel win coins
 
-★	watch videos receive coins
+★ watch videos receive coins
 
-★	signup get coins’ bonus
+★ signup get coins’ bonus
 
-★	exchange your coins in real usd
+★ exchange your coins in real usd
 
-★	receive your money in PayPal or easy paisa wallet
+★ receive your money in PayPal or easy paisa wallet
 
 ## :tada: How to Get withdraw?
 
