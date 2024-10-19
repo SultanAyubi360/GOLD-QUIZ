@@ -43,3 +43,10 @@ Want to Make extra cash fast whether you're stuck on the train or bored at work 
 It really is that simple to make a quiz with the help of GOLD QUIZZ App. Go on give it a try!
 
 
+### Find this useful? ❤️
+Support it by joining stargazers to this. ⭐
+
+Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+
+
