@@ -1,5 +1,20 @@
 ## :tada: GOLD-QUIZ
+
+## Play Quiz & Earn Cash
+
 Gold Quiz is a fun quiz application where you can test your knowledge level. It includes flag questions, football player predictions and questions in different categories. It is user-friendly with its colorful interface. You can play both alone and with your friends. You can rise to the top of the leaderboard by increasing your score. Think fast, give the right answers, leave your competitors behind. An ideal game for those who want to learn while having fun. Try Gold Quiz now to improve your general knowledge and have a pleasant time!
+
+Quizys is a Real Online Cash Earning & Learning App, where you can earn money through different methods and withdraw your earnings.
+
+🏆 Play Quizzes and earn Cash💰
+Quizys app is an app that will help you to improve your education and knowledge. Play quizzes and win rewards as coins. Quizys application provides an opportunity for every user to improve their education, General Knowledge and skills with play quizzes and earn cash rewards.
+
+Quizys the best free money earning app 💰
+Instant best money earning app Quizys ,This is the simplest application to earn high real money. Quizys App is made especially for people who love to earn extra money easily in their free time Earn
+
+Ways to earn cash on Quizys Money Earning App
+-In Quizys you can earn real cash by completing numerous free high money making offers.
+-Refer the Quizys Money Making App to your friends and family and receive extra earning. We have unlimited referrals so you can earn more money earning
                                    
 ![images](https://user-images.githubusercontent.com/112378013/192100609-b5d62578-3cf5-4bfe-8730-6297e339fdb0.jpg)
 
