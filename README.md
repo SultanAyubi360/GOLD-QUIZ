@@ -1,5 +1,5 @@
 ## :tada: GOLD-QUIZ
-## :tada:Earn Real Cash Now
+Gold Quiz is a fun quiz application where you can test your knowledge level. It includes flag questions, football player predictions and questions in different categories. It is user-friendly with its colorful interface. You can play both alone and with your friends. You can rise to the top of the leaderboard by increasing your score. Think fast, give the right answers, leave your competitors behind. An ideal game for those who want to learn while having fun. Try Gold Quiz now to improve your general knowledge and have a pleasant time!
                                    
 ![images](https://user-images.githubusercontent.com/112378013/192100609-b5d62578-3cf5-4bfe-8730-6297e339fdb0.jpg)
 
