@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Gold Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_dialog_title">Credits</string>
+    <string name="info_dialog_details"> <b> Kaptaan Technologies</b> \n\nMake Money and Earn Cash Rewards - Get Paid to Take a Quiz,watch videos and spin wheel.GOLD QUIZ APP is the best way to convert your general knowledge quiz into real money cash and earn free money online.If you enjoy this app Please give us a one good review at\n\n <a href="https://www.facebook.com/𝙆𝙖𝙥𝙩𝙖𝙖𝙣-𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨-100925909427353/">https://www.facebook.com/𝙆𝙖𝙥𝙩𝙖𝙖𝙣-𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨-100925909427353/</a>\n\n and read more about our services.</string>
+
+    <string name="app_version_text">Version 1.0.0</string>
+    <string name="about_app_text">You are using <b> GOLD QUIZ</b> APP,If you want to make money in your free time, there may not be a better way than getting paid to take a quiz and win real cash.If you enjoy this app Please give us a one good review at \n\n<a href="https://www.facebook.com/𝙆𝙖𝙥𝙩𝙖𝙖𝙣-𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨-100925909427353/">https://www.facebook.com/𝙆𝙖𝙥𝙩𝙖𝙖𝙣-𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨-100925909427353/</a> </string>
+
+</resources>

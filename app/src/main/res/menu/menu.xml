@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24">
+
+
+    </item>
+
+
+    <item android:id="@+id/rank"
+        android:title="LeaderBoard"
+        android:icon="@drawable/trophy">
+
+
+    </item>
+
+    <item android:id="@+id/wallet"
+        android:title="Wallet"
+        android:icon="@drawable/wallet">
+
+
+    </item>
+
+
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/user">
+
+
+    </item>
+</menu>

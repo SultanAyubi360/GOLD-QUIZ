@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914636975497",
+    "project_id": "gold-quiz",
+    "storage_bucket": "gold-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914636975497:android:e97759056a032d8a1a0558",
+        "android_client_info": {
+          "package_name": "com.sultan.goldquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914636975497-tdj639fhlrfvabbsfcb60cl6240sfjvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultan.goldquiz",
+            "certificate_hash": "ed5a6a0433982d6f2458afeaa0f8a6f54eaa274b"
+          }
+        },
+        {
+          "client_id": "914636975497-37u19k8v7thl0k2illns6fc33idsrt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKJxGktTprrAhvfEik37yOFp33G7dajc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914636975497-37u19k8v7thl0k2illns6fc33idsrt7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
